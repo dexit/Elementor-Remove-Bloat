@@ -10,3 +10,5 @@ A couple of snippets that will remove JS and CSS Bloat on Wordpress websites and
 - [NEW] Snippet to Disable dashicons (Ignore logged in users)
 - [NEW] Snippet to Disable Elementor Eicons (Ignore logged in users)
 - [NEW] Snippet to Disable Google Fonts from Elementor
+- [NEW] Snippet to Disable wp-embed
+- [NEW] Snippet to Disable Emojis
